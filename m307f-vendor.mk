@@ -19,7 +19,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/m307f/proprietary/vendor/etc/plmn_delta_hktw.bin:$(TARGET_COPY_OUT_VENDOR)/etc/plmn_delta_hktw.bin \
     vendor/samsung/m307f/proprietary/vendor/etc/plmn_delta_usagsm.bin:$(TARGET_COPY_OUT_VENDOR)/etc/plmn_delta_usagsm.bin \
     vendor/samsung/m307f/proprietary/vendor/etc/plmn_se13.bin:$(TARGET_COPY_OUT_VENDOR)/etc/plmn_se13.bin \
-    vendor/samsung/m307f/proprietary/vendor/etc/wifi/mx140_bt.hcf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/mx140_bt.hcf \
     vendor/samsung/m307f/proprietary/vendor/firmware/calliope_dram.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/calliope_dram.bin \
     vendor/samsung/m307f/proprietary/vendor/firmware/calliope_sram.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/calliope_sram.bin \
     vendor/samsung/m307f/proprietary/vendor/lib/hw/audio.primary.exynos9611.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.exynos9611.so \
